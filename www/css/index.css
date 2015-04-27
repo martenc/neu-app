@@ -47,7 +47,7 @@ body {
 
 /* Portrait layout (default) */
 .app {
-    background:url(http://neutrogena-corporation.massrel.io/template-static-2e315ff5570a680c5a56c7a2cd71108719ee3f3f/img/pledge-bg.jpg) no-repeat center top; /* 170px x 200px */
+    background:url(../img/pledge-bg.png) no-repeat center top; /* 170px x 200px */
     position:absolute;             /* position in the center of the screen */
     /*left:50%;*/
     top:50%;
