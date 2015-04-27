@@ -21,10 +21,10 @@ var app = {
     initialize: function() {
         this.bindEvents();
     },
-    // Bind Event Listeners
+    // Bind Event Listeners 
     //
     // Bind any events that are required on startup. Common events are:
-    // 'load', 'deviceready', 'offline', and 'online'.
+    // 'load', 'deviceready', 'offline', and 'online'. Others listed here: http://docs.phonegap.com/en/edge/cordova_events_events.md.html#Events
     bindEvents: function() {
         document.addEventListener('deviceready', this.onDeviceReady, false);
     },
